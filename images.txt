@@ -4,3 +4,12 @@ p3terx/aria2-pro
 p3terx/ariang
 vdsm/virtual-dsm
 deluan/navidrome
+xhofe/alist
+hslr/sun-panel
+cloudnas/clouddrive2
+nyanmisaka/jellyfin
+jellyfin/jellyfin
+looby/aliyundrive-subscribe
+tinymediamanager/tinymediamanager
+messense/aliyundrive-webdav
+msterzhang/onelist
