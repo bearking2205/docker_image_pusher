@@ -14,3 +14,5 @@ tinymediamanager/tinymediamanager
 messense/aliyundrive-webdav
 msterzhang/onelist
 haroldli/xiaoya-tvbox
+okxlin/docker-1panel
+6053537/portainer-ce
