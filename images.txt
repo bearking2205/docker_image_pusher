@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 p3terx/aria2-pro
 p3terx/ariang
 vdsm/virtual-dsm
+deluan/navidrome
