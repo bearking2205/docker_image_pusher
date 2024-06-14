@@ -14,7 +14,6 @@ tinymediamanager/tinymediamanager
 messense/aliyundrive-webdav
 msterzhang/onelist
 haroldli/xiaoya-tvbox
-okxlin/docker-1panel
 ghcr.io/red5d/docker-autocompose
 ailg/alist
 alist/ggbond
